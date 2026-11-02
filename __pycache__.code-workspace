@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Git Hub/Cabeleleila_Leila/__pycache__"
+		},
+		{
+			"path": "../../Git Hub/Cabeleleila_Leila/imagens"
+		},
+		{
+			"path": "../../Git Hub/Cabeleleila_Leila/instance"
+		},
+		{
+			"path": "../../Git Hub/Cabeleleila_Leila/migrations"
+		},
+		{
+			"path": "../../Git Hub/Cabeleleila_Leila/static"
+		},
+		{
+			"path": "../../Git Hub/Cabeleleila_Leila/templates"
+		}
+	]
+}
